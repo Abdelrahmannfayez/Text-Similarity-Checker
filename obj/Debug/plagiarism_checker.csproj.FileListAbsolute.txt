@@ -1,0 +1,10 @@
+C:\Projects_Archive\plagiarism_checker\bin\Debug\plagiarism_checker.exe.config
+C:\Projects_Archive\plagiarism_checker\bin\Debug\plagiarism_checker.exe
+C:\Projects_Archive\plagiarism_checker\bin\Debug\plagiarism_checker.pdb
+C:\Projects_Archive\plagiarism_checker\obj\Debug\plagiarism_checker.csproj.AssemblyReference.cache
+C:\Projects_Archive\plagiarism_checker\obj\Debug\plagiarism_checker.Form1.resources
+C:\Projects_Archive\plagiarism_checker\obj\Debug\plagiarism_checker.Properties.Resources.resources
+C:\Projects_Archive\plagiarism_checker\obj\Debug\plagiarism_checker.csproj.GenerateResource.cache
+C:\Projects_Archive\plagiarism_checker\obj\Debug\plagiarism_checker.csproj.CoreCompileInputs.cache
+C:\Projects_Archive\plagiarism_checker\obj\Debug\plagiarism_checker.exe
+C:\Projects_Archive\plagiarism_checker\obj\Debug\plagiarism_checker.pdb
